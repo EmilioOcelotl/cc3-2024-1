@@ -9,7 +9,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 
 Dos tipos de archivos: Apuntes y código ejecutable  
 
-- [ ] 07.08.23 - [01 Introducción al curso y repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s01.md) - Código 
+- [x] 07.08.23 - [01 Introducción al curso y repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s01.md) - [Código Repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/processing/s01/repaso.pde) - [Código setup y draw](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/processing/s01/setupDraw.pde)
 
 ## Actividades de aprendizaje bajo conducción de un académico 
 
