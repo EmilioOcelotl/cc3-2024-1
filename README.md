@@ -1,4 +1,4 @@
-![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc3-AI-2024-1/main/img/banner.png)
+![portada](https://raw.githubusercontent.com/EmilioOcelotl/cc3-2024-1/main/img/banner.png)
 
 # Código (No) Creativo 3 
 
@@ -9,7 +9,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 
 Dos tipos de archivos: Apuntes y código ejecutable  
 
-- [ ] 07.08.23 - [01 Introducción al curso y repaso](https://github.com/EmilioOcelotl/cc3-AI-2024-1/blob/main/doc/s01.md) - Código 
+- [ ] 07.08.23 - [01 Introducción al curso y repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s01.md) - Código 
 
 ## Actividades de aprendizaje bajo conducción de un académico 
 
@@ -44,3 +44,4 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - Codina, Ll. (2023) [Cómo utilizar ChatGPT en el aula con perspectiva ética y pensamiento crítico: una proposición para docentes y educadores](https://www.lluiscodina.com/chatgpt-educadores/)
 - Goldsmith, K. (2011) Uncreative Writing: Managing Language in the Digital Age. Columbia University Press.
 - Reas, C. and Fry, B. (2014) Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press.
+- Stieg, C. (2023) [ChatGPT vs. Me: Can an AI Chatbot Build a Program From Scratch Better Than a Human?](https://www.codecademy.com/resources/blog/chatgpt-vs-human-developer-coding-project/)
