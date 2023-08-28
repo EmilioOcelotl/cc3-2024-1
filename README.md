@@ -11,7 +11,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 
 - [x] 07.08.23 - [01 Introducción al curso y repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s01.md) - [Código Repaso](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/processing/s01/repaso.pde) - [Código setup y draw](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/processing/s01/setupDraw.pde)
 - [x] 14.08.23 - [02 Repaso, iteraciones y transformaciones](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s02.md) - [Codigo Repaso 2](https://gist.github.com/EmilioOcelotl/13a0c34eaaa99daf21a95449430a0693) - [Introducción for](https://gist.github.com/EmilioOcelotl/13fc23a6cfde0aa52c8db336088ff336)
-- [ ] 21.08.23 - [03 Iteraciones e imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s03.md) 
+- [x] 21.08.23 - [03 Iteraciones y gradientes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s03.md)  - [Código](https://gist.github.com/EmilioOcelotl/520e7003f133fe80267dbc8afb153ddb)
+- [ ] 28.08.24 - [04 Imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s04.md)
 
 ## Criterios de evaluación
 
@@ -25,6 +26,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [ChatGPT](https://chat.openai.com/)
 - [Color y Processing](https://processing.org/tutorials/color)
 - [Sistema de Coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
+- [random](https://processing.org/reference/random_.html)
+- [Imágenes y pixeles](https://processing.org/tutorials/pixels)
 
 ## Referencias
 
