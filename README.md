@@ -13,13 +13,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [x] 14.08.23 - [02 Repaso, iteraciones y transformaciones](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s02.md) - [Codigo Repaso 2](https://gist.github.com/EmilioOcelotl/13a0c34eaaa99daf21a95449430a0693) - [Introducción for](https://gist.github.com/EmilioOcelotl/13fc23a6cfde0aa52c8db336088ff336)
 - [x] 21.08.23 - [03 Iteraciones y gradientes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s03.md)  - [Código](https://gist.github.com/EmilioOcelotl/520e7003f133fe80267dbc8afb153ddb)
 - [x] 28.08.23 - [04 Imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s04.md) - [Código](https://gist.github.com/EmilioOcelotl/c91e30fe62fbf4d7942de4b55defbc92)
-- [ ] 04.09.23 - [05 Imágenes y pixeles](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s05.md) - 
-
-## Criterios de evaluación
-
-- Realización de ejercicios parciales sobre programación orientada a objetos aplicada a la manipulación de imagen fija (30%)
-- Realización de ejercicios parciales sobre programación orientada a objetos y trigonometría (30%)
-- Realización de trabajo final desarrollando procesos de composición animada (40%) 
+- [x] 04.09.23 - [05 Imágenes y pixeles](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s05.md) - [Código principal](https://gist.github.com/EmilioOcelotl/23b1042a0a2d96b9fc0139c437f925b2) -  [Arreglos](https://gist.github.com/EmilioOcelotl/1938897376338d43def2ee580c0e3269)
+- [ ] 11.09.23 - [06 Pixeles, noise, movimiento](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s06.md)
 
 ## Recursos 
 
@@ -29,6 +24,12 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [Sistema de Coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
 - [random](https://processing.org/reference/random_.html)
 - [Imágenes y pixeles](https://processing.org/tutorials/pixels)
+
+## Criterios de evaluación
+
+- Realización de ejercicios parciales sobre programación orientada a objetos aplicada a la manipulación de imagen fija (30%)
+- Realización de ejercicios parciales sobre programación orientada a objetos y trigonometría (30%)
+- Realización de trabajo final desarrollando procesos de composición animada (40%) 
 
 ## Referencias
 
