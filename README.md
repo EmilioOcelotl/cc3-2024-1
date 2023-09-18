@@ -14,7 +14,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [x] 21.08.23 - [03 Iteraciones y gradientes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s03.md)  - [Código](https://gist.github.com/EmilioOcelotl/520e7003f133fe80267dbc8afb153ddb)
 - [x] 28.08.23 - [04 Imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s04.md) - [Código](https://gist.github.com/EmilioOcelotl/c91e30fe62fbf4d7942de4b55defbc92)
 - [x] 04.09.23 - [05 Imágenes y pixeles](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s05.md) - [Código principal](https://gist.github.com/EmilioOcelotl/23b1042a0a2d96b9fc0139c437f925b2) -  [Arreglos](https://gist.github.com/EmilioOcelotl/1938897376338d43def2ee580c0e3269)
-- [ ] 11.09.23 - [06 Pixeles, noise, movimiento](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s06.md)
+- [x] 11.09.23 - [06 Pixeles, noise, movimiento](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s06.md) - [Código](https://gist.github.com/EmilioOcelotl/b7cdcc92634a65d0a140efda2a8618cf)
+- [x] 18.09.23 - [07 Desfase e imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s07.md) - [Código](https://gist.github.com/EmilioOcelotl/7ef92b7bc6543925e063c795f63b01eb)
 
 ## Recursos 
 
@@ -24,6 +25,7 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [Sistema de Coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
 - [random](https://processing.org/reference/random_.html)
 - [Imágenes y pixeles](https://processing.org/tutorials/pixels)
+- [Copy](https://processing.org/reference/copy_.html)
 
 ## Criterios de evaluación
 
