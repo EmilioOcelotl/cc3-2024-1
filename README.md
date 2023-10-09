@@ -16,7 +16,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [x] 04.09.23 - [05 Imágenes y pixeles](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s05.md) - [Código principal](https://gist.github.com/EmilioOcelotl/23b1042a0a2d96b9fc0139c437f925b2) -  [Arreglos](https://gist.github.com/EmilioOcelotl/1938897376338d43def2ee580c0e3269)
 - [x] 11.09.23 - [06 Pixeles, noise, movimiento](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s06.md) - [Código](https://gist.github.com/EmilioOcelotl/b7cdcc92634a65d0a140efda2a8618cf)
 - [x] 18.09.23 - [07 Desfase e imágenes](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s07.md) - [Código](https://gist.github.com/EmilioOcelotl/7ef92b7bc6543925e063c795f63b01eb)
-- [ ] 25.09.23 - [08 Texto en Processing](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s08.md) - [Código](https://gist.github.com/EmilioOcelotl/2c420fb0121ff990d38378183300277c)
+- [x] 25.09.23 - [08 Texto en Processing](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s08.md) - [Código](https://gist.github.com/EmilioOcelotl/2c420fb0121ff990d38378183300277c)
+- [ ] 09.10.23 - [09 Sonido y Processing](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s08.md)
 
 ## Recursos 
 
@@ -27,6 +28,7 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [random](https://processing.org/reference/random_.html)
 - [Imágenes y pixeles](https://processing.org/tutorials/pixels)
 - [Copy](https://processing.org/reference/copy_.html)
+- [Sound](https://processing.org/reference/libraries/sound/index.html)
 
 ## Criterios de evaluación
 
