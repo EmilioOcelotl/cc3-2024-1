@@ -22,8 +22,8 @@ Dos tipos de archivos: Apuntes y código ejecutable
 - [x] 30.10.23 - [11 Integración de temas vistos](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s11.md) - [Código](https://gist.github.com/EmilioOcelotl/71bb5bfdbb3e15b007642c24936febb5)
 - [x] 06.11.23 - [12 Integración de temas vistos 2](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s12.md) - [Código](https://gist.github.com/EmilioOcelotl/94fd7701a4e741eb574edd58ee78dad5)
 - [x] 13.11.23 - [13 Integración de temas vistos 3](https://github.com/EmilioOcelotl/cc3-2024-1/blob/main/doc/s13.md) - [Código](https://gist.github.com/EmilioOcelotl/d5cf616150002d8bf6851d6b644cae99)
-- [ ] 27.11.23 - [14 Realización de entrega final]
-- [ ] 04.12.23 - [15 Cierre del curso, comentarios finales y entregas pendientes]
+- [x] 27.11.23 - 14 Realización de entrega final
+- [x] 04.12.23 - 15 Cierre del curso, comentarios finales y entregas pendientes
 
 ## Recursos 
 
